@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DikheetaNath
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and Flask
 - 📫 How to reach me Linkedin -> https://www.linkedin.com/in/dikheeta-nath
 
 
